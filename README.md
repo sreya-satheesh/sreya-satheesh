@@ -1,7 +1,3 @@
-I'm a Senior Software Engineer and a university student based in India. This is a collection of my learnings and experiments along my journey.
-
-##### Tech Stack
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" />
