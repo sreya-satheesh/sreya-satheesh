@@ -1,8 +1,6 @@
-# 🎓 About Me
-
 I'm a Senior Software Engineer and a university student based in India.
 
-✨ This is a collection of my learnings and experiments along my journey.
+This is a collection of my learnings and experiments along my journey.
 
 ---
 
