@@ -4,6 +4,8 @@
 
 
   ## Tech Stack
+
+  ---
   <p align="center"> 
 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -77,3 +79,4 @@
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original-wordmark.svg" />
   </p>  
+---
