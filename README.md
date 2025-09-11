@@ -29,7 +29,7 @@ Track your **income, expenses & balance** with simple localStorage persistence.
 An interactive app to **visualize sorting algorithms** with step-by-step animations.  
 Supports Bubble, Merge, Selection, Insertion & Quick Sort.  
 - [Repository](https://github.com/sreya-satheesh/sort-it-out)  
-- [Live Link](https://sort-it-out-private.vercel.app/)  
+- [Live Link](https://sort-it-out-five.vercel.app/)  
 
 #### 🖥️ CodeCanvas  
 An interactive platform to **learn JavaScript hands-on**.  
