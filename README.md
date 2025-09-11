@@ -51,7 +51,7 @@ Perfect for learners & coding enthusiasts.
 A powerful and intuitive **QR code generator** built with **Next.js + React**.  
 🎨 Fully customizable designs | ⚡ Live preview | 📦 Easy to use  
 - [Repository](https://github.com/sreya-satheesh/qreative)  
-- [Live Link](https://qreative-private.vercel.app/)  
+- [Live Link](https://qreative-nine.vercel.app/)  
 
 #### 📖 LexiFind  
 A sleek, intelligent **dictionary app** built with **Next.js + ShadCN UI**.  
