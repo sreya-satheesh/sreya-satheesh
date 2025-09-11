@@ -62,7 +62,7 @@ Designed for effortless word exploration.
 #### 🧰 Toolbox  
 A collection of **developer & designer utilities** in one place — minify code, convert formats, manipulate images, work with colors & dates.  
 - [Repository](https://github.com/sreya-satheesh/toolbox)  
-- [Live Link](https://toolbox-private.vercel.app/)  
+- [Live Link](https://toolbox-psi-nine.vercel.app/)  
 
 ---
 
