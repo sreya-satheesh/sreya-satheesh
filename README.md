@@ -34,8 +34,8 @@ Supports Bubble, Merge, Selection, Insertion & Quick Sort.
 #### 🖥️ CodeCanvas  
 An interactive platform to **learn JavaScript hands-on**.  
 Split-screen: read tutorials on one side & write/run code on the other.  
-- [Repository](https://github.com/sreya-satheesh/code-canvas-demo)  
-- [Live Link](https://code-canvas-private.vercel.app/)  
+- [Repository](https://github.com/sreya-satheesh/code-canvas)  
+- [Live Link](https://code-canvas-ebon.vercel.app/)  
 
 #### 🌍 Hello World!  
 Explore and compare how simple programs look across multiple **programming languages**.  
