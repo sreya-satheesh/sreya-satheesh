@@ -2,7 +2,11 @@
 
 ---
 
-### AI-Powered Projects  
+### AI-Powered Projects 
+
+#### WebLens AI
+WebLens AI converts images into editable text and offers AI tools to summarize, translate, rewrite, and proofread, turning visuals into actionable content instantly. 
+- [Repository](https://github.com/sreya-satheesh/weblens-ai)  
 
 #### Reflect Daily  
 A distraction-free **AI-powered journaling app** to track moods, habits, and personal growth.  
