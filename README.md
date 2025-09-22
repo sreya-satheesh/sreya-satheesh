@@ -6,7 +6,11 @@
 
 #### WebLens AI
 WebLens AI converts images into editable text and offers AI tools to summarize, translate, rewrite, and proofread, turning visuals into actionable content instantly. 
-- [Repository](https://github.com/sreya-satheesh/weblens-ai)  
+- [Repository](https://github.com/sreya-satheesh/weblens-ai)
+
+#### Nexalearn
+NexaLearn is an AI-driven partner in education, streamlining lesson prep for teachers and guiding students with personalized learning.
+- [Repository](https://github.com/sreya-satheesh/nexalearn)  
 
 #### Reflect Daily  
 A distraction-free **AI-powered journaling app** to track moods, habits, and personal growth.  
