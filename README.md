@@ -1,4 +1,4 @@
-✨ A little corner for the things I’ve loved learning, building, and co-creating.  
+✨ A little corner for the things I’ve enjoyed learning, exploring, and building. 
 
 ---
 
