@@ -49,7 +49,11 @@ Split-screen: read tutorials on one side & write/run code on the other.
 Explore and compare how simple programs look across multiple programming languages.  
 Perfect for learners & coding enthusiasts.  
 - [Repository](https://github.com/sreya-satheesh/hello-world)  
-- [Live Link](https://hello-world-three-pearl-26.vercel.app/)  
+- [Live Link](https://hello-world-three-pearl-26.vercel.app/)
+
+#### Patterns
+The Patterns app helps beginners understand core programming concepts by teaching how loops and conditions work through simple pattern exercises.
+- [Live Link](https://patterns-azure.vercel.app/)
 
 ---
 
