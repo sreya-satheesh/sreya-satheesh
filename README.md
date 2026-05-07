@@ -22,16 +22,11 @@ An AI smart scheduler that creates optimized daily plans in seconds.
 
 ---
 
-### Productivity Tools  
+### Learning & Education
 
-#### Expense Tracker  
-Track your income, expenses & balance with simple localStorage persistence.  
-- [Repository](https://github.com/sreya-satheesh/expense-tracker)  
-- [Live Link](https://expense-tracker-flame-six.vercel.app/)  
-
----
-
-### Learning & Education  
+#### Decoded
+Learn algorithms visually with interactive animations. Perfect for developers and coding interview prep.
+- [Live Link](https://decoded-app.vercel.app/)
 
 #### Sort It Out!  
 An interactive app to visualize sorting algorithms with step-by-step animations.  
@@ -74,6 +69,15 @@ Designed for effortless word exploration.
 A collection of developer & designer utilities in one place — minify code, convert formats, manipulate images, work with colors & dates.  
 - [Repository](https://github.com/sreya-satheesh/toolbox)  
 - [Live Link](https://toolbox-psi-nine.vercel.app/)  
+
+---
+
+### Productivity Tools  
+
+#### Expense Tracker  
+Track your income, expenses & balance with simple localStorage persistence.  
+- [Repository](https://github.com/sreya-satheesh/expense-tracker)  
+- [Live Link](https://expense-tracker-flame-six.vercel.app/)  
 
 ---
 
