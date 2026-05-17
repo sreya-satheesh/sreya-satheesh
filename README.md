@@ -6,7 +6,7 @@
 
 #### Decoded
 Learn algorithms visually with interactive animations.
-- [Live Link](https://decoded-app.vercel.app/)
+- [Live Link](https://www.decoded-app.com/)
 
 #### Aksharam
 Aksharam is an interactive Malayalam learning app for beginners.
