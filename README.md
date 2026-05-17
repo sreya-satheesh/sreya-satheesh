@@ -2,26 +2,6 @@
 
 ---
 
-### AI-Powered Projects 
-
-#### WebLens AI
-WebLens AI converts images into editable text and offers AI tools to summarize, translate, rewrite, and proofread, turning visuals into actionable content instantly. 
-- [Repository](https://github.com/sreya-satheesh/weblens-ai)
-
-#### Nexalearn
-NexaLearn is an AI-driven partner in education, streamlining lesson prep for teachers and guiding students with personalized learning.
-- [Repository](https://github.com/sreya-satheesh/nexalearn)  
-
-#### Reflect Daily  
-A distraction-free AI-powered journaling app to track moods, habits, and personal growth.  
-- [Repository](https://github.com/sreya-satheesh/reflect-daily)  
-
-#### DayWise  
-An AI smart scheduler that creates optimized daily plans in seconds.  
-- [Repository](https://github.com/sreya-satheesh/day-wise-app)  
-
----
-
 ### Learning & Education
 
 #### Decoded
@@ -53,6 +33,26 @@ Perfect for learners & coding enthusiasts.
 #### Patterns
 The Patterns app helps beginners understand core programming concepts by teaching how loops and conditions work through simple pattern exercises.
 - [Live Link](https://patterns-azure.vercel.app/)
+
+---
+
+### AI-Powered Projects 
+
+#### WebLens AI
+WebLens AI converts images into editable text and offers AI tools to summarize, translate, rewrite, and proofread, turning visuals into actionable content instantly. 
+- [Repository](https://github.com/sreya-satheesh/weblens-ai)
+
+#### Nexalearn
+NexaLearn is an AI-driven partner in education, streamlining lesson prep for teachers and guiding students with personalized learning.
+- [Repository](https://github.com/sreya-satheesh/nexalearn)  
+
+#### Reflect Daily  
+A distraction-free AI-powered journaling app to track moods, habits, and personal growth.  
+- [Repository](https://github.com/sreya-satheesh/reflect-daily)  
+
+#### DayWise  
+An AI smart scheduler that creates optimized daily plans in seconds.  
+- [Repository](https://github.com/sreya-satheesh/day-wise-app)  
 
 ---
 
