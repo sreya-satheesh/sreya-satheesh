@@ -25,8 +25,12 @@ An AI smart scheduler that creates optimized daily plans in seconds.
 ### Learning & Education
 
 #### Decoded
-Learn algorithms visually with interactive animations. Perfect for developers and coding interview prep.
+Learn algorithms visually with interactive animations.
 - [Live Link](https://decoded-app.vercel.app/)
+
+#### Aksharam
+Aksharam is an interactive Malayalam learning app for beginners.
+- [Live Link](https://aksharam-app.vercel.app/)
 
 #### Sort It Out!  
 An interactive app to visualize sorting algorithms with step-by-step animations.  
