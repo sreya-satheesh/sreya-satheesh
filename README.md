@@ -4,6 +4,10 @@
 
 ### Learning & Education
 
+#### RateLimiter
+A visual system design project that breaks down rate limiter architecture step by step.
+- [Live Link](https://rate-limiter-two.vercel.app/)
+
 #### Decoded
 Learn algorithms visually with interactive animations.
 - [Live Link](https://www.decoded-app.com/)
