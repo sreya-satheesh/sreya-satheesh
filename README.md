@@ -68,15 +68,6 @@ A collection of developer & designer utilities in one place — minify code, con
 
 ---
 
-### Productivity Tools  
-
-#### Expense Tracker  
-Track your income, expenses & balance with simple localStorage persistence.  
-- [Repository](https://github.com/sreya-satheesh/expense-tracker)  
-- [Live Link](https://expense-tracker-flame-six.vercel.app/)  
-
----
-
 ### Creative Experiments  
 
 #### Realistic Earth  
