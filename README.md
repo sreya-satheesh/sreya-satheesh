@@ -1,89 +1,71 @@
-✨ A little corner for the things I’ve enjoyed learning, exploring, and building. 
+✨ A little corner for the things I’ve enjoyed learning, exploring, and building.
 
 ---
 
-### Learning & Education
+### Interactive Visualisers
+
+#### The One Time Password
+An interactive system design walkthrough exploring what happens behind the six digits.
+- [Live Link](https://the-one-time-password.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/the-one-time-password-48j4)
 
 #### RateLimiter
 A visual system design project that breaks down rate limiter architecture step by step.
 - [Live Link](https://rate-limiter-two.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/behind-every-429-too-many-requests-pfn)
 
 #### Decoded
 Learn algorithms visually with interactive animations.
 - [Live Link](https://www.decoded-app.com/)
+- [Blog](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
 
 #### Aksharam
-Aksharam is an interactive Malayalam learning app for beginners.
+An interactive Malayalam learning app for beginners.
 - [Live Link](https://aksharam-app.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/aksharam-a-tribute-to-my-mother-tongue-kh5)
 
-#### Sort It Out!  
-An interactive app to visualize sorting algorithms with step-by-step animations.  
-Supports Bubble, Merge, Selection, Insertion & Quick Sort.  
-- [Repository](https://github.com/sreya-satheesh/sort-it-out)  
-- [Live Link](https://sort-it-out-five.vercel.app/)  
+#### Sort It Out!
+An interactive app to visualize sorting algorithms with step-by-step animations.
+Supports Bubble, Merge, Selection, Insertion & Quick Sort.
+- [Repository](https://github.com/sreya-satheesh/sort-it-out)
+- [Live Link](https://sort-it-out-five.vercel.app/)
 
-#### CodeCanvas  
-An interactive platform to learn JavaScript hands-on.  
-Split-screen: read tutorials on one side & write/run code on the other.  
-- [Repository](https://github.com/sreya-satheesh/code-canvas)  
-- [Live Link](https://code-canvas-ebon.vercel.app/)  
+---
 
-#### Hello World!  
-Explore and compare how simple programs look across multiple programming languages.  
-Perfect for learners & coding enthusiasts.  
-- [Repository](https://github.com/sreya-satheesh/hello-world)  
+### Learning Projects
+
+#### CodeCanvas
+An interactive platform to learn JavaScript hands-on.
+- [Repository](https://github.com/sreya-satheesh/code-canvas)
+- [Live Link](https://code-canvas-ebon.vercel.app/)
+
+#### Hello World!
+Explore and compare how simple programs look across multiple programming languages.
+- [Repository](https://github.com/sreya-satheesh/hello-world)
 - [Live Link](https://hello-world-three-pearl-26.vercel.app/)
 
 #### Patterns
-The Patterns app helps beginners understand core programming concepts by teaching how loops and conditions work through simple pattern exercises.
+Learn loops and conditions through simple programming pattern exercises.
 - [Live Link](https://patterns-azure.vercel.app/)
 
 ---
 
-### AI-Powered Projects 
+### Utilities & Tools
 
-#### WebLens AI
-WebLens AI converts images into editable text and offers AI tools to summarize, translate, rewrite, and proofread, turning visuals into actionable content instantly. 
-- [Repository](https://github.com/sreya-satheesh/weblens-ai)
+#### Qreative
+A QR code generator built with Next.js + React.
+- [Repository](https://github.com/sreya-satheesh/qreative)
+- [Live Link](https://qreative-nine.vercel.app/)
 
----
+#### LexiFind
+A dictionary app designed for effortless word exploration.
+- [Repository](https://github.com/sreya-satheesh/lexifind)
+- [Live Link](https://lexifind.vercel.app/)
 
-### Utilities & Tools  
-
-#### Qreative  
-A powerful and intuitive QR code generator built with Next.js + React.
-- [Repository](https://github.com/sreya-satheesh/qreative)  
-- [Live Link](https://qreative-nine.vercel.app/)  
-
-#### LexiFind  
-A sleek, intelligent dictionary app built with Next.js + ShadCN UI.  
-Designed for effortless word exploration.  
-- [Repository](https://github.com/sreya-satheesh/lexifind)  
-- [Live Link](https://lexifind.vercel.app/)  
-
-#### Toolbox  
-A collection of developer & designer utilities in one place — minify code, convert formats, manipulate images, work with colors & dates.  
-- [Repository](https://github.com/sreya-satheesh/toolbox)  
-- [Live Link](https://toolbox-psi-nine.vercel.app/)  
-
----
-
-### Creative Experiments  
-
-#### Realistic Earth  
-A lifelike Earth simulation with day/night cycles, twilight glow & atmospheric effects.  
-- [Repository](https://github.com/sreya-satheesh/realistic-earth)  
-- [Live Link](https://neon-conkies-f9e9e4.netlify.app/)  
-
-#### Haunted House  
-A spooky scene built entirely from primitive shapes with textures, lights & effects.  
-- [Repository](https://github.com/sreya-satheesh/haunted-house)  
-- [Live Link](https://6675708d6a08c6792eeb4bc5--cosmic-puffpuff-6a7e94.netlify.app/)  
-
-#### Particle Galaxy  
-A shader-driven particle system simulating a dynamic galaxy of rotating stars.  
-- [Repository](https://github.com/sreya-satheesh/particle-galaxy)  
-- [Live Link](https://6676b1e1a79a967b75798fba--cheery-fudge-12aff2.netlify.app/)  
+#### Toolbox
+A collection of developer and designer utilities for working with code, formats, images, colors, and dates.
+- [Repository](https://github.com/sreya-satheesh/toolbox)
+- [Live Link](https://toolbox-psi-nine.vercel.app/)
 
 ---
 
