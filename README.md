@@ -37,7 +37,7 @@ An interactive Malayalam learning app for beginners.
 #### CodeCanvas
 An interactive platform to learn JavaScript hands-on.
 - [Repository](https://github.com/sreya-satheesh/code-canvas)
-- [Live Link](https://code-canvas-red.vercel.app/)
+- [Live Link](https://code-canvas-laql.vercel.app/)
 
 #### Hello World!
 Explore and compare how simple programs look across multiple programming languages.
