@@ -55,7 +55,7 @@ Learn loops and conditions through simple programming pattern exercises.
 #### Qreative
 A QR code generator built with Next.js + React.
 - [Repository](https://github.com/sreya-satheesh/qreative)
-- [Live Link](https://qreative-nine.vercel.app/)
+- [Live Link](https://qreative-app.vercel.app/)
 
 #### Toolbox
 A collection of developer and designer utilities for working with code, formats, images, colors, and dates.
