@@ -23,7 +23,7 @@ Learn algorithms visually with interactive animations.
 An interactive app to visualize sorting algorithms with step-by-step animations.
 Supports Bubble, Merge, Selection, Insertion & Quick Sort.
 - [Repository](https://github.com/sreya-satheesh/sort-it-out)
-- [Live Link](https://sort-it-out-five.vercel.app/)
+- [Live Link](https://sort-it-out-topaz.vercel.app/)
 
 ---
 
@@ -56,11 +56,6 @@ Learn loops and conditions through simple programming pattern exercises.
 A QR code generator built with Next.js + React.
 - [Repository](https://github.com/sreya-satheesh/qreative)
 - [Live Link](https://qreative-nine.vercel.app/)
-
-#### LexiFind
-A dictionary app designed for effortless word exploration.
-- [Repository](https://github.com/sreya-satheesh/lexifind)
-- [Live Link](https://lexifind.vercel.app/)
 
 #### Toolbox
 A collection of developer and designer utilities for working with code, formats, images, colors, and dates.
