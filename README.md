@@ -42,7 +42,7 @@ An interactive platform to learn JavaScript hands-on.
 #### Hello World!
 Explore and compare how simple programs look across multiple programming languages.
 - [Repository](https://github.com/sreya-satheesh/hello-world)
-- [Live Link](https://hello-world-three-pearl-26.vercel.app/)
+- [Live Link](https://hello-world-one-self.vercel.app/)
 
 #### Patterns
 Learn loops and conditions through simple programming pattern exercises.
