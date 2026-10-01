@@ -19,11 +19,6 @@ Learn algorithms visually with interactive animations.
 - [Live Link](https://www.decoded-app.com/)
 - [Blog](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
 
-#### Aksharam
-An interactive Malayalam learning app for beginners.
-- [Live Link](https://aksharam-app.vercel.app/)
-- [Blog](https://dev.to/sreya-satheesh/aksharam-a-tribute-to-my-mother-tongue-kh5)
-
 #### Sort It Out!
 An interactive app to visualize sorting algorithms with step-by-step animations.
 Supports Bubble, Merge, Selection, Insertion & Quick Sort.
@@ -33,6 +28,11 @@ Supports Bubble, Merge, Selection, Insertion & Quick Sort.
 ---
 
 ### Learning Projects
+
+#### Aksharam
+An interactive Malayalam learning app for beginners.
+- [Live Link](https://aksharam-app.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/aksharam-a-tribute-to-my-mother-tongue-kh5)
 
 #### CodeCanvas
 An interactive platform to learn JavaScript hands-on.
