@@ -5,7 +5,7 @@
 ### Interactive Visualisers
 
 #### What's Up
-An interactive system design walkthrough exploring what happens behind the six digits.
+An interactive walkthrough exploring what happens behind a simple WhatsApp message — from sending and routing to delivery, retries, scaling, and more.
 - [Live Link](https://whats-up-ivory.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
 
