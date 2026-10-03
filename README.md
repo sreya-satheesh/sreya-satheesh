@@ -4,6 +4,11 @@
 
 ### Interactive Visualisers
 
+#### What's Up
+An interactive system design walkthrough exploring what happens behind the six digits.
+- [Live Link](https://whats-up-ivory.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
+
 #### The One Time Password
 An interactive system design walkthrough exploring what happens behind the six digits.
 - [Live Link](https://the-one-time-password.vercel.app/)
