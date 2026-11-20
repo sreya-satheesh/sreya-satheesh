@@ -32,7 +32,7 @@ Supports Bubble, Merge, Selection, Insertion & Quick Sort.
 
 ---
 
-### Learning Projects
+### Learning Playground
 
 #### Aksharam
 An interactive Malayalam learning app for beginners.
