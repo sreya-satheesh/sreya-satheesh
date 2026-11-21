@@ -4,25 +4,30 @@
 
 ### Interactive Visualisers
 
+#### Decoded
+Learn algorithms visually with interactive animations.
+- [Live Link](https://www.decoded-app.com/)
+- [Blog](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
+
+#### Bits & Pieces
+An interactive collection of 33 exhibits exploring the building blocks of system design, from networking and APIs to databases, caching, and reliability.
+- [Live Link](https://bits-and-pieces-sigma.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/the-bits-behind-the-magic)
+
 #### What's Up
 An interactive walkthrough exploring what happens behind a simple WhatsApp message — from sending and routing to delivery, retries, scaling, and more.
 - [Live Link](https://whats-up-ivory.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
-
-#### The One Time Password
-An interactive system design walkthrough exploring what happens behind the six digits.
-- [Live Link](https://the-one-time-password.vercel.app/)
-- [Blog](https://dev.to/sreya-satheesh/the-one-time-password-48j4)
 
 #### RateLimiter
 A visual system design project that breaks down rate limiter architecture step by step.
 - [Live Link](https://rate-limiter-two.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/behind-every-429-too-many-requests-pfn)
 
-#### Decoded
-Learn algorithms visually with interactive animations.
-- [Live Link](https://www.decoded-app.com/)
-- [Blog](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
+#### The One Time Password
+An interactive system design walkthrough exploring what happens behind the six digits.
+- [Live Link](https://the-one-time-password.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/the-one-time-password-48j4)
 
 #### Sort It Out!
 An interactive app to visualize sorting algorithms with step-by-step animations.
