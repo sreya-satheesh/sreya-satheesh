@@ -14,11 +14,6 @@ An interactive collection of 33 exhibits exploring the building blocks of system
 - [Live Link](https://bits-and-pieces-sigma.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/the-bits-behind-the-magic)
 
-#### What's Up
-An interactive walkthrough exploring what happens behind a simple WhatsApp message — from sending and routing to delivery, retries, scaling, and more.
-- [Live Link](https://whats-up-ivory.vercel.app/)
-- [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
-
 #### RateLimiter
 A visual system design project that breaks down rate limiter architecture step by step.
 - [Live Link](https://rate-limiter-two.vercel.app/)
@@ -28,6 +23,11 @@ A visual system design project that breaks down rate limiter architecture step b
 An interactive system design walkthrough exploring what happens behind the six digits.
 - [Live Link](https://the-one-time-password.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/the-one-time-password-48j4)
+
+#### What's Up
+An interactive walkthrough exploring what happens behind a simple WhatsApp message — from sending and routing to delivery, retries, scaling, and more.
+- [Live Link](https://whats-up-ivory.vercel.app/)
+- [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
 
 #### Sort It Out!
 An interactive app to visualize sorting algorithms with step-by-step animations.
