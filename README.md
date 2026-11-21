@@ -12,7 +12,7 @@ Learn algorithms visually with interactive animations.
 #### Bits & Pieces
 An interactive collection of 33 exhibits exploring the building blocks of system design, from networking and APIs to databases, caching, and reliability.
 - [Live Link](https://bits-and-pieces-sigma.vercel.app/)
-- [Blog](https://dev.to/sreya-satheesh/the-bits-behind-the-magic)
+- [Blog](https://dev.to/sreya-satheesh/the-bits-behind-the-magic-1i76)
 
 #### RateLimiter
 A visual system design project that breaks down rate limiter architecture step by step.
