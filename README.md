@@ -56,6 +56,7 @@ Explore and compare how simple programs look across multiple programming languag
 
 #### Patterns
 Learn loops and conditions through simple programming pattern exercises.
+- [Repository](https://github.com/sreya-satheesh/patterns)
 - [Live Link](https://patterns-azure.vercel.app/)
 
 ---
