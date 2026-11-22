@@ -10,7 +10,7 @@ Learn algorithms visually with interactive animations.
 - [Blog](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
 
 #### Bits & Pieces
-An interactive collection of 33 exhibits exploring the building blocks of system design, from networking and APIs to databases, caching, and reliability.
+An interactive collection of 33 exhibits exploring the building blocks of system design.
 - [Live Link](https://bits-and-pieces-sigma.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/the-bits-behind-the-magic-1i76)
 
