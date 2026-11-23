@@ -30,8 +30,7 @@ An interactive walkthrough exploring what happens behind a simple WhatsApp messa
 - [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
 
 #### Sort It Out!
-An interactive app to visualize sorting algorithms with step-by-step animations.
-Supports Bubble, Merge, Selection, Insertion & Quick Sort.
+An interactive playground for exploring Bubble Sort, Selection Sort, and Insertion Sort through visualizations.
 - [Repository](https://github.com/sreya-satheesh/sort-it-out-v2)
 - [Live Link](https://sort-it-out-v2.vercel.app/)
 
