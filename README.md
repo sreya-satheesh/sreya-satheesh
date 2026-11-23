@@ -32,8 +32,8 @@ An interactive walkthrough exploring what happens behind a simple WhatsApp messa
 #### Sort It Out!
 An interactive app to visualize sorting algorithms with step-by-step animations.
 Supports Bubble, Merge, Selection, Insertion & Quick Sort.
-- [Repository](https://github.com/sreya-satheesh/sort-it-out)
-- [Live Link](https://sort-it-out-topaz.vercel.app/)
+- [Repository](https://github.com/sreya-satheesh/sort-it-out-v2)
+- [Live Link](https://sort-it-out-v2.vercel.app/)
 
 ---
 
