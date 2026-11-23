@@ -47,14 +47,18 @@ An interactive Malayalam learning app for beginners.
 An interactive platform to learn JavaScript hands-on.
 - [Repository](https://github.com/sreya-satheesh/code-canvas)
 - [Live Link](https://code-canvas-v2-ruby.vercel.app/)
+  
+---
+
+### First Steps
 
 #### Hello World!
-Explore and compare how simple programs look across multiple programming languages.
+The first program, written across today's popular programming languages.
 - [Repository](https://github.com/sreya-satheesh/hello-world-v2)
 - [Live Link](https://hello-world-v2-seven.vercel.app/)
 
 #### Patterns
-Learn loops and conditions through simple programming pattern exercises.
+Explore programming patterns through visual previews, simple logic explanations, and JavaScript examples.
 - [Repository](https://github.com/sreya-satheesh/patterns)
 - [Live Link](https://patterns-azure.vercel.app/)
 
