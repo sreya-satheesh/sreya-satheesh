@@ -2,52 +2,47 @@
 
 ---
 
-### Interactive Visualisers
+### Visual Explorations
 
 #### Decoded
-Learn algorithms visually with interactive animations.
+Learn algorithms through visual explanations and animations.
 - [Live Link](https://www.decoded-app.com/)
 - [Blog](https://dev.to/sreya-satheesh/what-if-dsa-was-taught-visually-instead-of-just-theory-4fgf)
 
 #### Bits & Pieces
-An interactive collection of 33 exhibits exploring the building blocks of system design.
+A collection of 33 exhibits exploring the building blocks of system design.
 - [Live Link](https://bits-and-pieces-sigma.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/the-bits-behind-the-magic-1i76)
 
 #### RateLimiter
-A visual system design project that breaks down rate limiter architecture step by step.
+A visual breakdown of rate limiter architecture, one step at a time.
 - [Live Link](https://rate-limiter-two.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/behind-every-429-too-many-requests-pfn)
 
 #### The One Time Password
-An interactive system design walkthrough exploring what happens behind the six digits.
+A system design walkthrough exploring everything that happens behind those six digits.
 - [Live Link](https://the-one-time-password.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/the-one-time-password-48j4)
 
 #### What's Up
-An interactive walkthrough exploring what happens behind a simple WhatsApp message — from sending and routing to delivery, retries, scaling, and more.
+A behind-the-scenes look at what happens when you send a WhatsApp message — from routing and delivery to retries, scaling, and more.
 - [Live Link](https://whats-up-ivory.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
-
-#### Sort It Out!
-An interactive playground for exploring Bubble Sort, Selection Sort, and Insertion Sort through visualizations.
-- [Repository](https://github.com/sreya-satheesh/sort-it-out-v2)
-- [Live Link](https://sort-it-out-v2.vercel.app/)
 
 ---
 
 ### Learning Playground
 
 #### Aksharam
-An interactive Malayalam learning app for beginners.
+A Malayalam learning app designed to help beginners explore my mother tongue.
 - [Live Link](https://aksharam-app.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/aksharam-a-tribute-to-my-mother-tongue-kh5)
 
 #### CodeCanvas
-An interactive platform to learn JavaScript hands-on.
+A hands-on space to learn JavaScript by writing and experimenting with code.
 - [Repository](https://github.com/sreya-satheesh/code-canvas)
 - [Live Link](https://code-canvas-v2-ruby.vercel.app/)
-  
+
 ---
 
 ### First Steps
@@ -61,6 +56,11 @@ The first program, written across today's popular programming languages.
 Explore programming patterns through visual previews, simple logic explanations, and JavaScript examples.
 - [Repository](https://github.com/sreya-satheesh/patterns)
 - [Live Link](https://patterns-azure.vercel.app/)
+
+#### Sort It Out!
+Explore the fundamentals of sorting algorithms — Bubble Sort, Selection Sort, and Insertion Sort — through step-by-step visualizations.
+- [Repository](https://github.com/sreya-satheesh/sort-it-out-v2)
+- [Live Link](https://sort-it-out-v2.vercel.app/)
 
 ---
 
@@ -78,4 +78,4 @@ A collection of developer and designer utilities for working with code, formats,
 
 ---
 
-✨ Built with curiosity, creativity & love — by **Sreya Satheesh** ❤️  
+✨ Built with curiosity, creativity & love — by **Sreya Satheesh** ❤️
