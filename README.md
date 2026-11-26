@@ -2,7 +2,7 @@
 
 ---
 
-### The Why Behind the How. 🔍
+### The Why Behind the How.
 
 #### Decoded
 Learn algorithms through visual explanations and animations.
@@ -31,7 +31,7 @@ Follow a WhatsApp message on its journey from sender to receiver.
 
 ---
 
-### Where Learning Finds a Language. ❤️
+### Where Learning Finds a Language.
 
 #### Aksharam
 A Malayalam learning app designed to help beginners explore my mother tongue.
@@ -45,7 +45,7 @@ A hands-on space to learn JavaScript by writing and experimenting with code.
 
 ---
 
-### The little things that make a programmer. ✨
+### The First Steps of a Programmer.
 
 #### Hello World!
 The first program, written across today's popular programming languages.
@@ -64,7 +64,7 @@ Explore the fundamentals of sorting algorithms — Bubble Sort, Selection Sort, 
 
 ---
 
-### The Utility Squad. 🛠️
+### The Utility Squad.
 
 #### Qreative
 A QR code generator built with Next.js + React.
