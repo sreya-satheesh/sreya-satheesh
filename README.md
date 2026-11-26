@@ -31,7 +31,7 @@ Follow a WhatsApp message on its journey from sender to receiver.
 
 ---
 
-### A love letter to languages. ❤️
+### Where Learning Finds a Language. ❤️
 
 #### Aksharam
 A Malayalam learning app designed to help beginners explore my mother tongue.
