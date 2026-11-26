@@ -2,7 +2,7 @@
 
 ---
 
-### Visual Explorations
+### The Why Behind the How. 🔍
 
 #### Decoded
 Learn algorithms through visual explanations and animations.
@@ -15,7 +15,7 @@ A collection of 33 exhibits exploring the building blocks of system design.
 - [Blog](https://dev.to/sreya-satheesh/the-bits-behind-the-magic-1i76)
 
 #### RateLimiter
-A visual breakdown of rate limiter architecture, one step at a time.
+Ever wondered what happens when you hit that 429? Here's how rate limiting works.
 - [Live Link](https://rate-limiter-two.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/behind-every-429-too-many-requests-pfn)
 
@@ -25,13 +25,13 @@ A system design walkthrough exploring everything that happens behind those six d
 - [Blog](https://dev.to/sreya-satheesh/the-one-time-password-48j4)
 
 #### What's Up
-A behind-the-scenes look at what happens when you send a WhatsApp message — from routing and delivery to retries, scaling, and more.
+Follow a WhatsApp message on its journey from sender to receiver.
 - [Live Link](https://whats-up-ivory.vercel.app/)
 - [Blog](https://dev.to/sreya-satheesh/what-happens-when-you-send-a-whatsapp-message-3ldg)
 
 ---
 
-### Learning Playground
+### A love letter to languages. ❤️
 
 #### Aksharam
 A Malayalam learning app designed to help beginners explore my mother tongue.
@@ -45,7 +45,7 @@ A hands-on space to learn JavaScript by writing and experimenting with code.
 
 ---
 
-### First Steps
+### The little things that make a programmer. ✨
 
 #### Hello World!
 The first program, written across today's popular programming languages.
@@ -64,7 +64,7 @@ Explore the fundamentals of sorting algorithms — Bubble Sort, Selection Sort, 
 
 ---
 
-### Utilities & Tools
+### The Utility Squad. 🛠️
 
 #### Qreative
 A QR code generator built with Next.js + React.
